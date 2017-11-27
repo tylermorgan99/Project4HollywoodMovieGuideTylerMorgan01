@@ -1,0 +1,12 @@
+{
+  "name": "DriveRiteInsuranceTylerMorgan",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsdocs": "^1.0.0",
+    "node.js": "0.0.0",
+    "readline-sync": "^1.4.7",
+    "require": "^2.4.20",
+    "stdout": "0.0.3"
+  },
+  "devDependencies": {}
+}
